@@ -1,1 +1,2 @@
 - [Arnaud Michel](https://github.com/MrArnaudMichel)
+- [Kulus Miya](https://github.com/Kulus-Miya)
